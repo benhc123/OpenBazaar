@@ -5,7 +5,7 @@ The goal of the **HTML contract tools** is to create a multi platform, offline i
 Kudos to the guys at http://openpgpjs.org/ for the javascript to manage the PGP keys, etc.
 
 ## Usage
-Download the entire contents of this directory, and run the index.html file.  This should open in your preferred browser, though it is recommended you run this in chrome or firefox due to compatibility issues with the OpenPGPJS javascript.
+Download the entire contents of this directory, and run the index.html file.  This should open in your preferred browser, though it is recommended you run this in Chrome or Firefox due to compatibility issues with the OpenPGPJS javascript.
 
 
 ## Some of the workings.
