@@ -30,7 +30,7 @@ You can financially support the project by either:
 - Identity/Reputation system
 
 ## Project Status
-- All features are currently in *alpha* stage. 
+- All features are currently in [*alpha*](http://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha) stage. 
 - Current functionality includes:
   1. Starting a connection to the distributed marketplace
   2. Viewing content in a browser
