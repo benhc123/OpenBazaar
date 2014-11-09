@@ -124,6 +124,10 @@ Here are some screenshots of the *alpha* UI so far:
 - **CoinBuzz**
   - [DarkMarket fork ‘OpenBazaar’ to be launched](http://www.coinbuzz.com/2014/05/01/darkmarket-fork-openbazaar/)
   - [Decentralized marketplace, OpenBazaar, to release first beta Sunday](http://www.coinbuzz.com/2014/09/01/decentralized-marketplace-openbazaar-release-first-beta-sunday/)
+  - - **Network World**
+  - [Silk Road's demise paves way for 'unstoppable' OpenBazaar's rise](http://www.networkworld.com/article/2844998/opensource-subnet/silk-roads-demise-paves-way-for-unstoppable-openbazaars-rise.html)
+  
+
 
 ## License
 
